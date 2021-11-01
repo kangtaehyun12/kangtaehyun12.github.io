@@ -1,5 +1,5 @@
 /**
-* Template Name: Salsabila - v4.6.0
+* Template Name: Salsa - v4.6.0
 * Template URL: https://bootstrapmade.com/salsa-free-bootstrap-cv-resume-html-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 1024px) {
   #hero {
-    background-attachment: fixed;
+    background-attachment: scroll;
   }
 }
 @media (max-width: 992px) {
